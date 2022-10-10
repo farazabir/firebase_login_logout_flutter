@@ -1,16 +1,13 @@
-# loginflutter
 
-A new Flutter project.
+# Flutter Login Logout With Firebase AUTH
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Insert gif or link to demo
+
+![image](https://user-images.githubusercontent.com/62275863/194857262-b8fb549d-0592-432e-8cae-9288d7563eb1.png)
+![image](https://user-images.githubusercontent.com/62275863/194857883-8a473443-255b-4cee-b39e-43765595604b.png)
+![image](https://user-images.githubusercontent.com/62275863/194858045-9e14ffab-b754-48df-a29c-f98569fd2e79.png)
